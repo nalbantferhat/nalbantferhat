@@ -11,6 +11,11 @@ Bitirelim mi(E/H):
 -----------------------
 2
 Silinecek kitap adını giriniz:
+!!Kitap silindi!!
+Bitirelim mi(E/H):
+
+//kitap yoksa
+Böyle bir kitap yok:
 Bitirelim mi(E/H):
 
 -----------------------
