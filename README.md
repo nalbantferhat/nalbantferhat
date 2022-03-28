@@ -22,10 +22,10 @@ Bitirelim mi(E/H):  //E denirse ana menüye geri dönülecek, H denirse program 
 -----------------------
 3
 ***Kütüphanedeki kitaplar***
-Forsa
-Diyet
-Bomba
-Pembe incili kaftan
-Bir çocuk Aleko
+1-Forsa
+2-Diyet
+3-Bomba
+4-Pembe incili kaftan
+5-Bir çocuk Aleko
 
 Bitirelim mi(E/H):  //E denirse ana menüye geri dönülecek, H denirse program biter
